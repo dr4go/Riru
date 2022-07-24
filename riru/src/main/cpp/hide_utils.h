@@ -6,8 +6,6 @@
 
 namespace hide {
 
-    void PrepareMapsHideLibrary();
-
     void HideFromMaps();
 
     void HideFromSoList();

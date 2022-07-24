@@ -1,5 +1,7 @@
 # Deprecated
 
+
+
 All Riru users and Riru modules should migrate to Zygisk.
 
 # Riru

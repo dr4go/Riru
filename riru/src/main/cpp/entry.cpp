@@ -110,7 +110,6 @@ init(void *handle, const char* magisk_path, const RirudSocket& rirud) {
     self_handle = handle;
 
     magisk::SetPath(magisk_path);
-    hide::PrepareMapsHideLibrary();
     jni::InstallHooks();
     modules::Load(rirud);
 }
